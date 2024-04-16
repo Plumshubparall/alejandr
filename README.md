@@ -5,9 +5,5 @@
                         
             🛸      
             🛸  
-document.getElementById('miEslider').addEventListener('input', function() { /* Actualizar posición del objeto */ });
-posicionamiento css  trasform: 
-traslate ( 100 px , 50 px );  a la derecha 
-transition : trasform 4s;
 
 
