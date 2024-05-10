@@ -1,4 +1,4 @@
-<!doctype html>   index html
+<!doctype html>   
 <html>
       <body>
             <h1> hello wordld <h1>
