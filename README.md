@@ -1,5 +1,4 @@
 <!doctype> html 
-my blog 
 
                               
                                                              
