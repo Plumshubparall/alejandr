@@ -1,5 +1,5 @@
 
-# MINI ENTRY DATA
+# MINI ENTRY DATA " mini.css"
 
 mi perfil web 
 
