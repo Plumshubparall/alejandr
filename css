@@ -1,1 +1,9 @@
 # css
+"nombre":mini.css,
+"version""3.0.1",
+"descripcion"un framework css mini.independiente del estilo",
+"principal":"dist/mini-default.mini.css",
+"directorios"{"lib""src/mini""guiones":{"documentos de compilacion": "node./docs/build-docs.js && node-sass src/flavors/mini-doc.scssdocs/style.mi.css--output-stylecompressed",
+"build-mini-default"":"node-sass src/flavors/mini-default.scss dist/mini-default.css--output-style expanded && node-sass src/flavors/mini-default.scss dist7mini-default.min.css--output-stylecomprimido",
+"construir-mini-default":"node"-sass src/flavors/mini-dark.scss dist/mimi-dark.css--output-style expandeb && node-sass src/flavors/mini-dark.scss dist/mini-dark.min.css--output-stylecomressed",                                       
+"construir-mininord":"node-sass src/ flavors/mini-nord.css dist/mini-nord.css--output-styleexpandeb && node-sass src/flavors/mini-nord.scss dis/mini-nord.min.css--output-stylecomprimido",
