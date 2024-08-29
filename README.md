@@ -8,7 +8,7 @@ mi perfil web
                                                              
 <html lang = "es">
    
-<head></head>    
+<head> hogar experiencia proyectos educacion comunidad  </head>    
                         
 <meta<charset="utf-8">             
           
