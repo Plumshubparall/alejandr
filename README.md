@@ -40,10 +40,10 @@ i<!DOCTYPE html>
         </section>  
          
         
-    </main>
-    <footer>
-        <p>Pie de página</p>
-    </footer>
+    
+    
+        
+  
 </body>
 </html>
 nitial-scale -1.0"> <title> https://www.alejandr.me/</title c/head><h1>encabezado
