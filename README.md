@@ -26,20 +26,7 @@ i<!DOCTYPE html>
     <header>
         <h1>Encabezado Principal</h1><link rel="stylesheet" href="estilos.css">
 
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#">Enlace 1</a> </li><script src="scripts.js"></script>
-
-            <li><a href="#">Enlace 2</a></li>
-            <li><a href="#">Enlace 3</a></li>
-        </ul>
-    </nav>
-    <main>
-        <section>  
-            <h2>Sección Principal</h2> 
-            <p>Contenido de la página.</p> <img src="ruta/de/tu/imagen.jpg"alt="description de la imagen">
-        </section>  
+   
          
         
     
