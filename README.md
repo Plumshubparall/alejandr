@@ -8,7 +8,7 @@ mi perfil web
                                                              
 <html lang = "es">
    
-<head> hogar experiencia proyectos educacion comunidad  </head>    
+<head> / </head>    
                         
 <meta<charset="utf-8">             
           
@@ -20,15 +20,17 @@ i<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Título de la Página</title>
+    <title>mi pagina de prueba </title>
 </head>
 <body>
     <header>
-        <h1>Encabezado Principal</h1>
+        <h1>Encabezado Principal</h1><link rel="stylesheet" href="estilos.css">
+
     </header>
     <nav>
         <ul>
-            <li><a href="#">Enlace 1</a></li>
+            <li><a href="#">Enlace 1</a> </li><script src="scripts.js"></script>
+
             <li><a href="#">Enlace 2</a></li>
             <li><a href="#">Enlace 3</a></li>
         </ul>
