@@ -34,10 +34,12 @@ i<!DOCTYPE html>
         </ul>
     </nav>
     <main>
-        <section>
+        <section>  
             <h2>Sección Principal</h2>
-            <p>Contenido de la página.</p>
-        </section>
+            <p>Contenido de la página.</p> <img
+        </section>  
+         src="ruta/de/tu/imagen.jpg"
+         alt=description de la imagen">
     </main>
     <footer>
         <p>Pie de página</p>
