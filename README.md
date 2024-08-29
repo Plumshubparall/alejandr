@@ -35,11 +35,11 @@ i<!DOCTYPE html>
     </nav>
     <main>
         <section>  
-            <h2>Sección Principal</h2>
-            <p>Contenido de la página.</p> <img
+            <h2>Sección Principal</h2> 
+            <p>Contenido de la página.</p> <img src="ruta/de/tu/imagen.jpg"alt="descriptin de la imagen">
         </section>  
-         src="ruta/de/tu/imagen.jpg"
-         alt=description de la imagen">
+         
+        
     </main>
     <footer>
         <p>Pie de página</p>
