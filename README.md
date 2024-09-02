@@ -8,13 +8,10 @@ mi perfil web
                                                              
 <html lang = "es">
    
-<head> / </head>    
-                        
-<meta<charset="utf-8">             
+<head> / </head>            
           
-<meta name ="viewpor"
 
- content ="width=device-width, 
+ 
 i<!DOCTYPE html>
 <html lang="es">
 <head>
@@ -24,11 +21,7 @@ i<!DOCTYPE html>
 </head>
 <body>
     <header>
-        <h1>Encabezado Principal</h1><link rel="stylesheet" href="estilos.css">
-
-   
-         
-        
+        <h1>Encabezado Principal</h1><link rel="stylesheet" href="estilos.css
     
     
         
