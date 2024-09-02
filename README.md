@@ -1,14 +1,5 @@
 
-# MINI ENTRY DATA " mini.css"
-
-mi perfil web 
-
- 
-        <!DOCTYPE HTML>                      
-                                                             
-<html lang = "es">
-   
-<head> / </head>            
+# MINI ENTRY DATA " mini.css"            
           
 
  
