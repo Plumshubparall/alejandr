@@ -8,9 +8,9 @@ i<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> </title>
+    <title> mini data entry </title>    
 </head>
-<body>
+<body>  
     <header>
         <h1>Encabezado Principal</h1><link rel="stylesheet" href="estilos.css
     
